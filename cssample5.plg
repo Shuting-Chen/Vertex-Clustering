@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: cssample5 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\LIJUNY~1\LOCALS~1\Temp\RSPAA1.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/cssample5.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\USERS\Lijun\Courses\CS560-460_Spring2006_MSXP\Assignment4\cs560sample5\cssample5.cpp"
+"D:\USERS\Lijun\Courses\CS560-460_Spring2006_MSXP\Assignment4\cs560sample5\cssample5Doc.cpp"
+"D:\USERS\Lijun\Courses\CS560-460_Spring2006_MSXP\Assignment4\cs560sample5\cssample5View.cpp"
+"D:\USERS\Lijun\Courses\CS560-460_Spring2006_MSXP\Assignment4\cs560sample5\MainFrm.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\LIJUNY~1\LOCALS~1\Temp\RSPAA1.tmp" 
+Creating temporary file "C:\DOCUME~1\LIJUNY~1\LOCALS~1\Temp\RSPAA2.tmp" with contents
+[
+opengl32.lib glu32.lib glaux.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/cssample5.pdb" /debug /machine:I386 /out:"Debug/cssample5.exe" /pdbtype:sept 
+".\Debug\cssample5.obj"
+".\Debug\cssample5Doc.obj"
+".\Debug\cssample5View.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\cssample5.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\LIJUNY~1\LOCALS~1\Temp\RSPAA2.tmp"
+<h3>Output Window</h3>
+Compiling...
+cssample5.cpp
+cssample5Doc.cpp
+cssample5View.cpp
+MainFrm.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+cssample5.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
